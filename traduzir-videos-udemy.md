@@ -19,5 +19,5 @@ Você já quis muito  fazer um  curso na Udemy mas infelizmente não domina o id
 
 ![traduzido](https://github.com/Sherillyn/portifolio/blob/main/assets/traduzido.png)
  
- Obs.: não é possível editar a legenda oficial do vídeo. Mas, caso queira, você pode desabilitar. Basta clicar no ícone à direita do botão de transcrição no vídeo, em **CC**.
+💡 Não é possível editar a legenda oficial do vídeo. Mas, caso queira, você pode desabilitar. Basta clicar no ícone à direita do botão de transcrição no vídeo, em **CC**.
  
